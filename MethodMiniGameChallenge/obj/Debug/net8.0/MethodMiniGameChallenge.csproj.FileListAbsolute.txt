@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\bin\Debug\net8.0\MethodMiniGameChallenge.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\bin\Debug\net8.0\MethodMiniGameChallenge.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\bin\Debug\net8.0\MethodMiniGameChallenge.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\bin\Debug\net8.0\MethodMiniGameChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\bin\Debug\net8.0\MethodMiniGameChallenge.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\refint\MethodMiniGameChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\MethodMiniGameChallenge.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\MethodMiniGameChallenge\obj\Debug\net8.0\ref\MethodMiniGameChallenge.dll

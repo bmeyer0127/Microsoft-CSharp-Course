@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\bin\Debug\net8.0\PettingZooProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\bin\Debug\net8.0\PettingZooProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\bin\Debug\net8.0\PettingZooProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\bin\Debug\net8.0\PettingZooProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\bin\Debug\net8.0\PettingZooProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\refint\PettingZooProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\PettingZooProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PettingZooProject\obj\Debug\net8.0\ref\PettingZooProject.dll
