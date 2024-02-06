@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\bin\Debug\net8.0\PlaygroundProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\bin\Debug\net8.0\PlaygroundProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\bin\Debug\net8.0\PlaygroundProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\bin\Debug\net8.0\PlaygroundProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\bin\Debug\net8.0\PlaygroundProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\refint\PlaygroundProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\PlaygroundProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\PlaygroundProject\obj\Debug\net8.0\ref\PlaygroundProject.dll

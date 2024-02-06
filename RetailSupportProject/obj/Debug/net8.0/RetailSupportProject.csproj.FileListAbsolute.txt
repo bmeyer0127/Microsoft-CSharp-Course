@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\bin\Debug\net8.0\RetailSupportProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\bin\Debug\net8.0\RetailSupportProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\bin\Debug\net8.0\RetailSupportProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\bin\Debug\net8.0\RetailSupportProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\bin\Debug\net8.0\RetailSupportProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\refint\RetailSupportProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\RetailSupportProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\RetailSupportProject\obj\Debug\net8.0\ref\RetailSupportProject.dll
