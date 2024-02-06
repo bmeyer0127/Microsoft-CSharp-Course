@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\bin\Debug\net8.0\ChangeMakerProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\bin\Debug\net8.0\ChangeMakerProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\bin\Debug\net8.0\ChangeMakerProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\bin\Debug\net8.0\ChangeMakerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\bin\Debug\net8.0\ChangeMakerProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\refint\ChangeMakerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ChangeMakerProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ChangeMakerProject\obj\Debug\net8.0\ref\ChangeMakerProject.dll

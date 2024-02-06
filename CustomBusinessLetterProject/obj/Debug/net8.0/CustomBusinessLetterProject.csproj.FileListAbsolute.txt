@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\bin\Debug\net8.0\CustomBusinessLetterProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\bin\Debug\net8.0\CustomBusinessLetterProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\bin\Debug\net8.0\CustomBusinessLetterProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\bin\Debug\net8.0\CustomBusinessLetterProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\bin\Debug\net8.0\CustomBusinessLetterProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\refint\CustomBusinessLetterProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\CustomBusinessLetterProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\CustomBusinessLetterProject\obj\Debug\net8.0\ref\CustomBusinessLetterProject.dll
