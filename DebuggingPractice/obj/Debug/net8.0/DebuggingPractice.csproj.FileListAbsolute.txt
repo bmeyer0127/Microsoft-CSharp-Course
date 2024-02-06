@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\bin\Debug\net8.0\DebuggingPractice.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\refint\DebuggingPractice.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\DebuggingPractice.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DebuggingPractice\obj\Debug\net8.0\ref\DebuggingPractice.dll

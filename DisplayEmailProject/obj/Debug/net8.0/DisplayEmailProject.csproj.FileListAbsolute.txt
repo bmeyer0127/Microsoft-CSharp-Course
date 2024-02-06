@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\bin\Debug\net8.0\DisplayEmailProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\bin\Debug\net8.0\DisplayEmailProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\bin\Debug\net8.0\DisplayEmailProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\bin\Debug\net8.0\DisplayEmailProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\bin\Debug\net8.0\DisplayEmailProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\refint\DisplayEmailProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\DisplayEmailProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DisplayEmailProject\obj\Debug\net8.0\ref\DisplayEmailProject.dll

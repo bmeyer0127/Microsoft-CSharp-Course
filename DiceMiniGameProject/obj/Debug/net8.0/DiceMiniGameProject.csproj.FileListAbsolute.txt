@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\bin\Debug\net8.0\DiceMiniGameProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\bin\Debug\net8.0\DiceMiniGameProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\bin\Debug\net8.0\DiceMiniGameProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\bin\Debug\net8.0\DiceMiniGameProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\bin\Debug\net8.0\DiceMiniGameProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\refint\DiceMiniGameProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\DiceMiniGameProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\DiceMiniGameProject\obj\Debug\net8.0\ref\DiceMiniGameProject.dll

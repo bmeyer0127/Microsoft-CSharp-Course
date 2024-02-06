@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\bin\Debug\net8.0\FizzBuzzProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\bin\Debug\net8.0\FizzBuzzProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\bin\Debug\net8.0\FizzBuzzProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\bin\Debug\net8.0\FizzBuzzProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\bin\Debug\net8.0\FizzBuzzProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\refint\FizzBuzzProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\FizzBuzzProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\FizzBuzzProject\obj\Debug\net8.0\ref\FizzBuzzProject.dll
