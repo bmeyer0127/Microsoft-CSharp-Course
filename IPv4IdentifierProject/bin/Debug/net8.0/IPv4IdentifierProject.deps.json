@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IPv4IdentifierProject/1.0.0": {
+        "runtime": {
+          "IPv4IdentifierProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPv4IdentifierProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\bin\Debug\net8.0\ForEachProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\bin\Debug\net8.0\ForEachProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\bin\Debug\net8.0\ForEachProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\bin\Debug\net8.0\ForEachProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\bin\Debug\net8.0\ForEachProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\refint\ForEachProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ForEachProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ForEachProject\obj\Debug\net8.0\ref\ForEachProject.dll

@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\bin\Debug\net8.0\IPv4IdentifierProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\bin\Debug\net8.0\IPv4IdentifierProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\bin\Debug\net8.0\IPv4IdentifierProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\bin\Debug\net8.0\IPv4IdentifierProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\bin\Debug\net8.0\IPv4IdentifierProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\refint\IPv4IdentifierProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\IPv4IdentifierProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\IPv4IdentifierProject\obj\Debug\net8.0\ref\IPv4IdentifierProject.dll

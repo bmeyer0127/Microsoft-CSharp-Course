@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\bin\Debug\net8.0\LegacyPaymentProcessingProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\bin\Debug\net8.0\LegacyPaymentProcessingProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\bin\Debug\net8.0\LegacyPaymentProcessingProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\bin\Debug\net8.0\LegacyPaymentProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\bin\Debug\net8.0\LegacyPaymentProcessingProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\refint\LegacyPaymentProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\LegacyPaymentProcessingProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\LegacyPaymentProcessingProject\obj\Debug\net8.0\ref\LegacyPaymentProcessingProject.dll
