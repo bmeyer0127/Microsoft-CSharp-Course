@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\bin\Debug\net8.0\ThrowExceptionChallenge.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\bin\Debug\net8.0\ThrowExceptionChallenge.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\bin\Debug\net8.0\ThrowExceptionChallenge.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\bin\Debug\net8.0\ThrowExceptionChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\bin\Debug\net8.0\ThrowExceptionChallenge.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\refint\ThrowExceptionChallenge.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ThrowExceptionChallenge.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ThrowExceptionChallenge\obj\Debug\net8.0\ref\ThrowExceptionChallenge.dll

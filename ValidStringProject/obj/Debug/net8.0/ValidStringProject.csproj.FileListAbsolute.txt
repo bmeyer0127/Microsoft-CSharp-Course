@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\bin\Debug\net8.0\ValidStringProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\bin\Debug\net8.0\ValidStringProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\bin\Debug\net8.0\ValidStringProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\bin\Debug\net8.0\ValidStringProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\bin\Debug\net8.0\ValidStringProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\refint\ValidStringProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ValidStringProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidStringProject\obj\Debug\net8.0\ref\ValidStringProject.dll

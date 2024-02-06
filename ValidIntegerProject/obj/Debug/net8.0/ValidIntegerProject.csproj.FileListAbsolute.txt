@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\bin\Debug\net8.0\ValidIntegerProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\bin\Debug\net8.0\ValidIntegerProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\bin\Debug\net8.0\ValidIntegerProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\bin\Debug\net8.0\ValidIntegerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\bin\Debug\net8.0\ValidIntegerProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\refint\ValidIntegerProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ValidIntegerProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\ValidIntegerProject\obj\Debug\net8.0\ref\ValidIntegerProject.dll
