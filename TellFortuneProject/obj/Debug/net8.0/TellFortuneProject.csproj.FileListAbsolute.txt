@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\bin\Debug\net8.0\TellFortuneProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\bin\Debug\net8.0\TellFortuneProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\bin\Debug\net8.0\TellFortuneProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\bin\Debug\net8.0\TellFortuneProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\bin\Debug\net8.0\TellFortuneProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\refint\TellFortuneProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\TellFortuneProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\TellFortuneProject\obj\Debug\net8.0\ref\TellFortuneProject.dll

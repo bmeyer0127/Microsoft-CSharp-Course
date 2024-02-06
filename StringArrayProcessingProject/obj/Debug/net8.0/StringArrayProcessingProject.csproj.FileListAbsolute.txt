@@ -1,0 +1,14 @@
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\bin\Debug\net8.0\StringArrayProcessingProject.exe
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\bin\Debug\net8.0\StringArrayProcessingProject.deps.json
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\bin\Debug\net8.0\StringArrayProcessingProject.runtimeconfig.json
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\bin\Debug\net8.0\StringArrayProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\bin\Debug\net8.0\StringArrayProcessingProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.AssemblyInfoInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.AssemblyInfo.cs
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.csproj.CoreCompileInputs.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\refint\StringArrayProcessingProject.dll
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.pdb
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\StringArrayProcessingProject.genruntimeconfig.cache
+C:\Users\Brett Meyer\Documents\C#-Projects\StringArrayProcessingProject\obj\Debug\net8.0\ref\StringArrayProcessingProject.dll
